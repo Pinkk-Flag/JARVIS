@@ -1,7 +1,8 @@
 # JARVIS (Just A Rather Very Intelligent System)
 Welcome to JARVIS, an advanced AI assistant designed to assist users in various tasks efficiently. Inspired by the AI assistant in the Marvel universe, JARVIS aims to provide a seamless and intuitive user experience.
 
-https://media.tenor.com/EHYzxILmfx0AAAAM/tinkering-tony-stark.gif
+![image](https://github.com/Pinkk-Flag/JARVIS/assets/91942071/9fb1f1db-8226-43ae-b2d2-d17e3a5a7b53)
+
 
 
 ## Features
