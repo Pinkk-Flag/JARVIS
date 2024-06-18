@@ -15,7 +15,7 @@ Customizable: Users can customize and extend JARVIS's functionality according to
 
 1. Installation: Clone the JARVIS repository to your local machine.
 ``` bash
-git clone https://github.com/your-username/jarvis.git
+git clone https://github.com/Pinkk-Flag/jarvis.git
 ```
 2. Dependencies: Ensure you have all the dependencies installed. Refer to the requirements.txt file for details.
 ``` bash
